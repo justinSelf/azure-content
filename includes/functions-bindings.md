@@ -9,5 +9,7 @@ Tables | Azure Storage |  | &#10004; | &#10004;
 Tables | Azure Mobile Apps |  | &#10004; | &#10004;
 No-SQL DB | Azure DocumentDB |  | &#10004; | &#10004;
 Push Notifications | Azure Notification Hubs | | | &#10004;
+ServiceBus Queues | Azure ServiceBus | | | &#10004;
+ServiceBus Topics | Azure ServiceBus | | | &#10004;
 
 (\* - The http out binding requires an http trigger)
